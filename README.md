@@ -1,6 +1,8 @@
 # Hi, I'm Abdullah 👋
 
-Founding & Lead Software Engineer @ [pyko-platform](https://github.com/pyko-platform)
+
+
+UofT CS + Stats
 
 ## Contact Me
 
