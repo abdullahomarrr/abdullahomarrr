@@ -4,8 +4,8 @@ Founding & Lead Software Engineer @ [pyko-platform](https://github.com/pyko-plat
 
 ## Contact Me
 
+**Email:** [abdullahom07@gmail.com](mailto:abdullahom07@gmail.com)
+
 **Website:** [abdullahomar.com](https://abdullahomar.com)
 
 **Discord:** `abdullahomar.`
-
-**Email:** [abdullahom07@gmail.com](mailto:abdullahom07@gmail.com)
