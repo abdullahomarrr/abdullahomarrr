@@ -8,4 +8,4 @@ Founding & Lead Software Engineer @ [pyko-platform](https://github.com/pyko-plat
 
 **Website:** [abdullahomar.com](https://abdullahomar.com)
 
-**Discord:** `abdullahomar.`
+**LinkedIn:** [abdullahomarr](https://www.linkedin.com/in/abdullahomarr/)
